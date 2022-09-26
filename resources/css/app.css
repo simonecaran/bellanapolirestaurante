@@ -1,0 +1,12 @@
+@import "./navbar.css";
+@import "./about.css";
+@import "./specialty.css";
+@import "./menu.css";
+@import "./contact.css";
+@import './modal.css';
+@import './footer.css';
+:root{
+    --main-color: #B9E6FF;
+    --second-color: #0f98e2;
+    --third-color: #1d3557;
+}

@@ -1,0 +1,50 @@
+[
+    {"id":1,"name":"Parmigiana di Melanzane","description":"Berenjenas fritas a la parmesana con tomate y queso provola ", "price":"4,80&euro;","img":"/img/antipasti-di-terra/parmigiana-di-melanzane.jpg","category":"leadStarters"},
+    {"id":2,"name":"Fritto misto Napoli - 6pz","description":"Croquetas fritas de papas, zeppoline fritas, albóndigas fritas","price":"4,80&euro;","img":"/img/antipasti-di-terra/Fritto-misto-napoli.jpg","category":"leadStarters"},
+    {"id":3,"name":"Mozzarella in carrozza","description":"Queso mozzarella empanado y frito","price":"6,50&euro;","img":"/img/antipasti-di-terra/mozzarella-in-carrozza.jpg","category":"leadStarters"},
+    {"id":4,"name":"Misto bruschette - 6pz","description":"Pan casero tostado con tomate, pan casero tostado con pimientos agridulces, pan casero tostado con berenjenas en aceite","price":"5,50&euro;","img":"/img/antipasti-di-terra/misto-bruschette.jpg","category":"leadStarters"},
+    {"id":5,"name":"Cestini di Grana Padano ripieni","description":"Cestas de Grana Padano rellenas","price":"6,50&euro;","img":"/img/antipasti-di-terra/cestini-di-parmigiano.jpg","category":"leadStarters"},
+    {"id":6,"name":" Tagliere Bella Napoli  (min 2 pers)","description":"Pan casero tostado con tomate, pan casero tostado con pimientos agridulces,berenjenas fritas a la parmesana, fritura mixta Napoli , salame en rodajas y aceitunas verdes","price":"18,00&euro;","img":"/img/antipasti-di-terra/tagliere-misto-solo-salumi.jpg","category":"leadStarters"},
+    {"id":7,"name":"Cesta di pane","description":"","price":"1,50&euro;","img":"/img/antipasti-di-terra/pane.jpg","category":"leadStarter"},
+
+    {"id":8,"name":"Polpo all’insalata","description":"Pulpo a la ensalada","price":"7,50&euro;","img":"/img/antipasti-di-mare/polpo-allinsalata.jpg","category":"seaStarter"},
+    {"id":9,"name":"Alici marinate","description":"Boquerones marinados","price":"6,90&euro;","img":"/img/antipasti-di-mare/alici-marinate.jpg","category":"seaStarter"},
+    {"id":10,"name":"Alici indorate e fritte","description":"Boquerones fritos","price":"6,90&euro;","img":"/img/antipasti-di-mare/alici-fritte-indorate.png","category":"seaStarter"},
+    {"id":11,"name":"Rucola e gamberetti","description":"Rúcula y gambas","price":"8,50&euro;","img":"/img/antipasti-di-mare/rucola-e-gamberetti.jpg","category":"seaStarter"},
+    {"id":12,"name":"Pasta e patate con provola","description":"Pasta con patatas y provola","price":"9,50&euro;","img":"/img/primi-piatti/pasta-patate-provola.jpg","category":"firstCourse"},
+    {"id":13,"name":"Gnocchi al ragú fatti a mano","description":"Ñoquis caseros con ragú","price":"11,00&euro;","img":"/img/primi-piatti/gnocchi-alla-sorrentina.jpg","category":"firstCourse"},
+    {"id":14,"name":"Pasta e fagioli con cozze","description":"Pasta con frijoles y mejillones","price":"10,50&euro;","img":"/img/primi-piatti/pasta-fagioli-e-cozze.webp","category":"firstCourse"},
+    {"id":15,"name":"Pasta alla Genovese","description":"Ragù blanco de cebolla y carne de res","price":"8,90&euro;","img":"/img/primi-piatti/pasta-alla-genovese.jpg","category":"firstCourse"},
+    {"id":16,"name":"Ziti spezzati al Ragù","description":"Pasta Ziti rotos con ragù","price":"8,50&euro;","img":"/img/primi-piatti/ziti-al-ragu-napoletano.jpg","category":"firstCourse"},
+    {"id":17,"name":"Paccheri ai frutti di mare","description":"Pasta Paccheri con mariscos","price":"13,50&euro;","img":"/img/primi-piatti/paccheri-frutti-mare.jpg","category":"firstCourse"},
+    {"id":18,"name":"Calamarata","description":"Pasta con calamares","price":"14,00&euro;","img":"/img/primi-piatti/calamarata.jpg","category":"firstCourse"},
+    {"id":19,"name":"Spaghetto povero","description":"Espaguetis con salsa de boquerones en aceite , alcaparras saladas, aceitunas y ají picante fresco","price":"8,90&euro;","img":"/img/primi-piatti/spaghetti-povero.jpg","category":"firstCourse"},
+    {"id":20,"name":"Bucatini allo scarpariello","description":"Pasta bucatini con salsa de tomate cherry, queso y albahaca fresca","price":"8,50&euro;","img":"/img/primi-piatti/bucatini-allo-scarpariello.jpg","category":"firstCourse"},
+    {"id":21,"name":"Rotolo Pompei","description":"Tortilla de calabacines con atún , rúcula y tomate","price":"7,80&euro;","img":"/img/secondi-piatti/rotolo-pompei.jpeg","category":"secondCourse"},
+    {"id":22,"name":"Carne alla genovese","description":"Carne de res con ragù blanco de cebolla","price":"9,50&euro;","img":"/img/secondi-piatti/carne-alla-genovese.jpg","category":"secondCourse"},
+    {"id":23,"name":"Polpette al ragù","description":"Albóndigas con salsa ragú","price":"9,00&euro;","img":"/img/secondi-piatti/polpette-al-sugo.jpg","category":"secondCourse"},
+    {"id":24,"name":"Polpo alla Luciana","description":"Pulpo con tomate cherry, aceitunas negras y alcaparras","price":"14,50&euro;","img":"/img/secondi-piatti/polipetti-alla-luciana.jpg","category":"secondCourse"},
+    {"id":25,"name":"Baccalà fritto","description":"Bacalao frito","price":"12,00&euro;","img":"/img/secondi-piatti/baccala-fritto.jpg","category":"secondCourse"},
+    {"id":26,"name":"Frittura mista","description":"Fritura mixta","price":"13,50&euro;","img":"/img/secondi-piatti/frittura-mista.jpg","category":"secondCourse"},
+    {"id":27,"name":"Peperoni in padella","description":"Pimientos en la sartén","price":"3,50&euro;","img":"/img/contorni/peperoni-in-padella.jpg","category":"contour"},
+    {"id":28,"name":"Peperoni a gratté","description":"Pimientos asados y gratinado","price":"3,50&euro;","img":"/img/contorni/peperoni-grate.jpg","category":"contour"},
+    {"id":29,"name":"Zucchine alla Scapece","description":"Calabazín frito y perfumado con menta","price":"3,50&euro;","img":"/img/contorni/zucchine-scapece.jpg","category":"contour"},
+    {"id":30,"name":"Melanzane arrostite","description":"Berenjena asada","price":"3,50&euro;","img":"/img/contorni/melanzane-grigliate.jpg","category":"contour"},
+    {"id":31,"name":"Melanzane a funghetto","description":"Berenjena con tomate","price":"3,50&euro;","img":"/img/contorni/melanzane_a_funghetto.jpg","category":"contour"},
+    {"id":32,"name":"Insalata mista","description":"Ensalada mixta","price":"2,50&euro;","img":"/img/contorni/insalata-mista.jpg","category":"contour"},
+    {"id":33,"name":"Cotoletta fritta e patatine fritte","description":"Escalope de pollo con papas fritas","price":"8,50&euro;","img":"/img/bambini/cotoletta-patatine.jpg","category":"baby"},
+    {"id":34,"name":"Penne al pomodoro fresco","description":"Pasta Penne con tomate fresco","price":"6,50&euro;","img":"/img/bambini/penne-pomodoro.jpg","category":"baby"},
+    {"id":35,"name":"Nuggets di pollo e patatine fritte","description":"Croquetas de pollo con papas fritas","price":"8,50&euro;","img":"/img/bambini/nuggets.jpg","category":"baby"},
+    {"id":36,"name":"Babbà napoletano","description":"Especialidad napolitana, bizcochito de mantequilla y huevo sumergido en un almíbar con ron","price":"4,50&euro;","img":"/img/dolci/babba.jpg","category":"sweat"},
+    {"id":37,"name":"Tiramisù","description":"Galletas savoiardi empapadas en café , crema de mascarpone y nata","price":"4,50&euro;","img":"/img/dolci/tiramisu.jpg","category":"sweat"},
+    {"id":38,"name":"Pastiera napoletana","description":"Base de masa quebrada rellena de crema de trigo cocido y ricotta, aromatizada con agua de azahar","price":"4,50&euro;","img":"/img/dolci/pastiera.jpg","category":"sweat"},
+    {"id":39,"name":"Caprese","description":"Pastel suave de chocolate y Almendras","price":"4,50&euro;","img":"/img/dolci/caprese.jpg","category":"sweat"},
+    {"id":40,"name":"Ciambella limone","description":"Donut suave al limón","price":"4,50&euro;","img":"/img/dolci/ciambella-limone.jpg","category":"sweat"},
+    {"id":41,"name":"Sbriciolata alla nutella","description":"Tarta de pasta “desmigajada” rellena de Nutella","price":"4,50&euro;","img":"/img/dolci/sbriciolata-nutella.jpg","category":"sweat"}
+
+
+
+
+
+
+]

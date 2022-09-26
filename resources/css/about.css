@@ -1,0 +1,6 @@
+.rounded{
+    width: 13px !important;
+    height: 13px !important;
+    border-radius: 50% !important;
+    background-color: var(--second-color) !important;
+}

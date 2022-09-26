@@ -1,0 +1,74 @@
+.contact .info {
+    width: 100%;
+  }
+  
+  .contact .info i {
+    font-size: 20px;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: var(--main-color);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }
+  .instagram{
+    color: blueviolet !important;
+    cursor: pointer;
+  }
+  .facebook{
+    color: blue  !important;
+    cursor: pointer;
+  }
+  .contact .info .social i  {
+  background: #fff;
+  }
+  
+  .contact .info h4 {
+    padding: 0 0 0 60px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: var(--second-color);
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .contact .info p{
+    padding: 0 0 0 60px;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: var(--third-color);
+  }
+  .contact .info .phoneNumber, .contact .info .location, .contact .info .mailContact{
+    padding: 0 0 0 60px;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: var(--third-color);
+    cursor: pointer;
+  }
+  .contact .info .phoneNumber:hover, .contact .info .location:hover, .contact .info .mailContact:hover{
+    color: var(--second-color);
+  }
+  
+  @-webkit-keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
