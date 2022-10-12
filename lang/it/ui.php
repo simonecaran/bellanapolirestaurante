@@ -60,7 +60,9 @@ return [
     'pastiera-napoletana' => 'Pastiera Napolitana',
     'pastiera-napoletana-description' => "Secondo la leggenda, la sirena Partenope aveva scelto come dimora il Golfo di Napoli, da dove si spandeva la sua voce melodiosa e dolcissima. Per ringraziarla si celebrava un misterioso culto, durante il quale la popolazione portava alla sirena sette doni: la farina, simbolo di ricchezza; la ricotta, simbolo di abbondanza; le uova, che richiamano la fertilità; il grano cotto nel latte, a simboleggiare la fusione di regno animale e vegetale; i fiori d'arancio profumo della terra campana; le spezie, omaggio di tutti i popoli; e lo zucchero, per celebrare la dolcezza del canto della sirena. Partenope gradì i doni, ma li mescolò creando questo dolce unico.",
     'allergeni' => '*per opzioni senza glutine e per gli allergeni chiedere al personale di sala',
-    'open' => 'Lun-Mar, Gio-Dom'
+    'open' => 'Lun-Mar, Gio-Dom',
+    'call' => 'Chiama'
+
 
     
 

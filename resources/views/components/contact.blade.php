@@ -34,7 +34,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p class="mailContact">info@example.com</p>
+                <p class="mailContact">bellanapoli.corralejo@gmail.com</p>
               </div>
 
               <div class="phone">
@@ -53,7 +53,7 @@
               <i class="fa-regular fa-comment"></i>
                 <h4>Social:</h4>
                 <p class="social">
-                  <a href="https://instagram.com/bellanapoli.corralejo?igshid=YmMyMTA2M2Y="><i class="bi bi-instagram instagram"></i></a>
+                  <a href="https://wa.me/+34624681426?text=Tienes%20una%20mesa%20disponible?"><i class="bi bi-whatsapp instagram"></i></a>
                   <a href="https://www.facebook.com/Bella-Napoli-103094572555815/"><i class="bi bi-facebook facebook"></i></a>
                 </p>
               </div>
@@ -66,8 +66,8 @@
                     <i class="bi bi-clock"></i>
                     <h4>Open Hours:</h4>
                     <p>
-                      Monday-Saturday:<br>
-                      11:00 AM - 2300 PM
+		      {{__('ui.open')}}:<br>
+		      18-00:30 PM
                     </p>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                 <div class="email">
                     <i class="bi bi-envelope"></i>
                     <h4>Email:</h4>
-                    <p class="mailContact">info@example.com</p>
+                    <p class="mailContact">bellanapoli.corralejo@gmail.com</p>
                 </div>
             </div>
 
@@ -88,7 +88,7 @@
             <div class="info">
                 <div class="phone">
                     <i class="bi bi-phone"></i>
-                    <h4>Call:</h4>
+                    <h4>{{__('ui.call')}}</h4>
                     <p class="phoneNumber"><a style="color:black" href="tel:+34 624681426">+34 624681426</a></p>
                 </div>
             </div>
