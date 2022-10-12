@@ -12,7 +12,7 @@ email.addEventListener('click',()=>{
 })
 
 instagram.addEventListener('click',()=>{
-    window.open('https://instagram.com/bellanapoli_corralejo?igshid=YmMyMTA2M2Y=')
+    window.open('https://instagram.com/bellanapoli.corralejo?igshid=YmMyMTA2M2Y=')
 })
 
 facebook.addEventListener('click',()=>{

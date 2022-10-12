@@ -53,7 +53,7 @@ return [
     'pastiera-napoletana' => 'Pastiera Napoletana',
     'pastiera-napoletana-description' => 'According to legend, the mermaid Partenope had chosen the Gulf of Naples as his abode, from where his melodious and sweet voice spread. To thank her, a mysterious cult was celebrated, during which the population brought seven gifts to the mermaid: flour, a symbol of wealth; cottage cheese, a symbol of abundance; eggs, which recall fertility; wheat cooked in milk, to symbolise the fusion of animal and vegetable kingdom; orange blossoms scent of the Campania land; spices, a tribute to all peoples; and sugar, to Parthenope liked the gifts, but mixed them up creating this unique dessert.',
     'allergeni' => 'for gluten-free options and for allergens ask the staff',
-    'open' => 'Mon-Tue, Thur-Sun',
+    'open' => 'Mon, Wedn-Sun',
     'plate-description' => 'plate description',
     'call' => 'Call'
 

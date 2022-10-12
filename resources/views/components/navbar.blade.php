@@ -70,8 +70,8 @@
           <img src="/img/logo/logo.png" class="mx-auto" alt="logo" style="height: 300px">
           <h2 class="mx-auto history">{{__('ui.about-history')}}</h2>
           <div class="btns mx-auto">
-            <a href="#menu" class="btn-menu animated fadeInUp scrollto my-3 mb-md-0">{{__('ui.menu')}}</a>
-            <a href="https://wa.me/+34624681426?text=Tienes%20una%20mesa%20disponible?" class="btn-book d-none d-lg-inline animated fadeInUp scrollto">{{__('ui.book_a_table')}}</a>
+            <a href="#menu" class="btn-menu animated fadeInUp scrollto my-3 mb-md-0 d-none d-lg-inline">{{__('ui.menu')}}</a>
+            <a href="https://wa.me/+34624681426?text=Tienes%20una%20mesa%20disponible?" class="btn-book animated fadeInUp scrollto">{{__('ui.book_a_table')}}</a>
           </div>
         </div>
 

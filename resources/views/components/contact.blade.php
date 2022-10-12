@@ -53,7 +53,7 @@
               <i class="fa-regular fa-comment"></i>
                 <h4>Social:</h4>
                 <p class="social">
-                  <a href="https://wa.me/+34624681426?text=Tienes%20una%20mesa%20disponible?"><i class="bi bi-whatsapp instagram"></i></a>
+                  <a href="https://instagram.com/bellanapoli.corralejo?igshid=YmMyMTA2M2Y="><i class="bi bi-instagram instagram"></i></a>
                   <a href="https://www.facebook.com/Bella-Napoli-103094572555815/"><i class="bi bi-facebook facebook"></i></a>
                 </p>
               </div>
