@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="8I-7bBBq5Yu9KMlRO130ee6cS34eb11F6ggJd3mlwVU" />
     <title>Trattoria BellaNapoli</title>
     <!-- Favicon -->
     <link rel="icon" href="{{url('./img/logo/logo.png')}}">

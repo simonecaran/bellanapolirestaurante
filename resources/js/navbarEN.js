@@ -201,6 +201,7 @@
     fetch('/menuEN.json')
     .then(response => response.json())
     .then(data => {
+      let menuContainer = document.querySelector('.menu-container');
       let categories =[];
       let filterAll = document.querySelector('.filter-all');
       let filterSeaStarter = document.querySelector('.filter-seaStarters');
@@ -210,7 +211,6 @@
       let filterBaby = document.querySelector('.filter-baby');
       let filterContour = document.querySelector('.filter-contour');
       let filterSweat = document.querySelector('.filter-sweat')
-      let menuContainer = document.querySelector('.menu-container');
   
       // creazione categorie:
       function setCategories() {
@@ -505,7 +505,5 @@
         event.preventDefault();
       }))
     })
-
-  
   })()
   
