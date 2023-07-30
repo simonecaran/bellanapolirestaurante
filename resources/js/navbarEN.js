@@ -211,6 +211,7 @@
       let filterBaby = document.querySelector('.filter-baby');
       let filterContour = document.querySelector('.filter-contour');
       let filterSweat = document.querySelector('.filter-sweat')
+      let filterPizza = document.querySelector('.filter-pizza')
   
       // creazione categorie:
       function setCategories() {
@@ -257,7 +258,13 @@
               categoryContainer.innerHTML = `<h5>MEAT AND FISH</h5>`
               menuContainer.appendChild(categoryContainer);
               
-          }            
+          } 
+          else if(category.category =="pizza"){
+            let categoryContainer = document.createElement('div')
+            categoryContainer.classList.add('mt-5')
+              categoryContainer.innerHTML = `<h5>PIZZA FRITTA</h5>`
+              menuContainer.appendChild(categoryContainer);
+          }                   
           else if(category.category == 'contour'){
             let categoryContainer = document.createElement('div')
             categoryContainer.classList.add('mt-5')
@@ -278,7 +285,8 @@
               categoryContainer.innerHTML = `<h5>NEAPOLITAN DESSERTS</h5>`
               menuContainer.appendChild(categoryContainer);
               
-          }            
+          }
+    
         }
           
           div.classList.add('col-lg-6', 'menu-item', 'menuCard', 'animate__animated', 'animate__fadeInLeft');
@@ -406,6 +414,28 @@
          })
          if(counter == 2){
            let buttonValue = 'secondCourse'
+            setCategory(buttonValue);
+            clearInterval(interval);
+         }
+        },500)
+      })
+
+      // Filtro per pizza
+
+      filterPizza.addEventListener('click', () => {
+        if(document.querySelector('.filter-active') != null){
+          document.querySelector('.filter-active').classList.remove('filter-active')
+        }
+        filterPizza.classList.add('filter-active')
+        let counter = 0;
+        let interval = setInterval(()=>{
+          counter++;
+         let menuCard = document.querySelectorAll('.menuCard');
+         menuCard.forEach(el=>{
+           el.classList.add('animate__fadeOutDown')
+         })
+         if(counter == 2){
+           let buttonValue = 'pizza'
             setCategory(buttonValue);
             clearInterval(interval);
          }

@@ -207,6 +207,7 @@
       let filterLeadStarters = document.querySelector('.filter-leadStarters');
       let filterFirstCourse = document.querySelector('.filter-firstCourse')
       let filterSecondCourse = document.querySelector('.filter-secondCourse');
+      let filterPizza = document.querySelector('.filter-pizza');
       let filterBaby = document.querySelector('.filter-baby');
       let filterContour = document.querySelector('.filter-contour');
       let filterSweat = document.querySelector('.filter-sweat')
@@ -258,6 +259,12 @@
               menuContainer.appendChild(categoryContainer);
               
           }            
+          else if(category.category =="pizza"){
+            let categoryContainer = document.createElement('div')
+            categoryContainer.classList.add('mt-5')
+              categoryContainer.innerHTML = `<h5>Pizza Fritta</h5>`
+              menuContainer.appendChild(categoryContainer);
+          } 
           else if(category.category == 'contour'){
             let categoryContainer = document.createElement('div')
             categoryContainer.classList.add('mt-5')
@@ -406,6 +413,26 @@
          })
          if(counter == 2){
            let buttonValue = 'secondCourse'
+            setCategory(buttonValue);
+            clearInterval(interval);
+         }
+        },500)
+      })
+
+      filterPizza.addEventListener('click', () => {
+        if(document.querySelector('.filter-active') != null){
+          document.querySelector('.filter-active').classList.remove('filter-active')
+        }
+        filterPizza.classList.add('filter-active')
+        let counter = 0;
+        let interval = setInterval(()=>{
+          counter++;
+         let menuCard = document.querySelectorAll('.menuCard');
+         menuCard.forEach(el=>{
+           el.classList.add('animate__fadeOutDown')
+         })
+         if(counter == 2){
+           let buttonValue = 'pizza'
             setCategory(buttonValue);
             clearInterval(interval);
          }

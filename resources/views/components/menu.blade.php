@@ -14,6 +14,7 @@
               <li class="filter-seaStarters">{{__('ui.seaStarter')}}</li>
               <li class="filter-firstCourse">{{__('ui.firstCourse')}}</li>
               <li class="filter-secondCourse">{{__('ui.secondCourse')}}</li>
+              <li class="filter-pizza">PIZZA</li>
               <li class="filter-contour">{{__('ui.contour')}}</li>
               <li class="filter-baby">{{__('ui.baby')}}</li>
               <li class="filter-sweat">{{__('ui.sweat')}}</li>
