@@ -61,7 +61,7 @@ return [
     'pastiera-napoletana' => 'Pastiera Napolitana',
     'pastiera-napoletana-description' => "Según la leyenda, la sirena Partenope había elegido como hogar el Golfo de Nápoles, desde donde se extendió su melodiosa y dulce voz. Para agradecerla se celebraba un misterioso culto, durante el cual la población llevaba a la sirena siete regalos: la harina, símbolo de riqueza; la ricotta, símbolo de abundancia; los huevos, que recuerdan la fertilidad; el trigo cocido en la leche, simbolizando la fusión del reino animal y vegetal; las flores de naranjas aroma de la tierra campana; las especias, homenaje de todos los pueblos Partenope le gustó los regalos, pero los mezcló creando este dulce único.",
     'allergeni' => 'para opciones sin gluten y para alérgenos preguntar al personal de sala',
-    'open' => 'Lun, Miè-Dom',
+    'open' => 'Miè-Dom',
     'call' => 'Llama'
 
 

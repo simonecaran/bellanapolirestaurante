@@ -3,7 +3,7 @@
 
       <div class="contact-info d-flex align-items-center justify-content-between">
         <i class="bi bi-phone d-flex align-items-center"><span><a href="tel:+34 624681426">+34 624681426</a></span></i>
-        <i class="bi bi-clock d-flex align-items-center ms-4"><span class=""> {{__('ui.open')}}: 18-00:30PM</span></i>
+        <i class="bi bi-clock d-flex align-items-center ms-4"><span class=""> {{__('ui.open')}}:13-16 & 19-23:30</span></i>
       </div>
       <div>
         <ul class="prova d-none d-md-flex justify-content-between mt-3">
